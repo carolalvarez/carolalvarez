@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C++, C#, HTML5, CSS3 & JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 👨‍💻 All of my projects are available here [PORTFOLIO](https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- 📫 How to reach me **carolalvarezmolina@gmail.com**
+- 📫 How to reach me [LinkTree](https://linktr.ee/amp_carol)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
