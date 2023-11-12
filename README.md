@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolalvarez&label=Profile%20views&color=f1ebeb&style=flat-square" alt="carolalvarez" /> </p>
 
-- 🔭 I’m currently working on [Sacramentum](https://linktr.ee/grimoriumgames)
+- 🔭 I’m currently working on [Sacramentum](https://linktr.ee/grimoriumgames), an Unreal Engine Action/Terror game that is currently in development.
 
 - 🌱 I’m currently learning **C++, C#, HTML5, CSS3 & JavaScript**
 
