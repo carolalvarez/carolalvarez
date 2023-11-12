@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carol P. Álvarez Molina</h1>
 <h3 align="center">Programmer, Designer and Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolalvarez&label=Profile%20views&color=f1ebeb&style=flat-square" alt="carolalvarez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolalvarez&label=Profile%20views&color=9CA491&style=flat-square" alt="carolalvarez" /> </p>
 
 - 🔭 I’m working on [Sacramentum](https://linktr.ee/grimoriumgames), an Unreal Engine Action/Terror game that is currently in development.
 
