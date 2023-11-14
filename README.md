@@ -2,7 +2,7 @@
 
 <h2 align="center">Español</h2>
 <h1 align="center">Buenas 👋, soy Carol P. Álvarez Molina</h1>
-<h3 align="center">Programadora, Diseñadora y Estudiante/Programmer, Designer and Student</h3>
+<h3 align="center">Programadora, Diseñadora y Estudiante</h3>
 
 - 🔭 Estoy trabajando en [Sacramentum](https://linktr.ee/grimoriumgames), un juego de Terror/Acción en Unreal Engine que está actualmente en desarrollo.
 
