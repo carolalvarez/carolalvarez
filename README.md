@@ -2,13 +2,9 @@
 
 <h2 align="center">Español</h2>
 <h1 align="center">Buenas 👋, soy Carol P. Álvarez Molina</h1>
-<h3 align="center">Programadora, Diseñadora y Estudiante</h3>
+<h3 align="center">Associate Experience Designer en Electronic Arts (EA)</h3>
 
-- 🔭 Estoy trabajando en [Sacramentum](https://linktr.ee/grimoriumgames), un juego de Terror/Acción en Unreal Engine que está actualmente en desarrollo.
-
-- 🌱 Estoy aprendiendo **C++, C#, HTML5, CSS3 y JavaScript**
-
-- 👨‍💻 Mis proyectos están aquí: [PORTFOLIO](https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 👨‍💻 Puedes encontrar mis proyectos aquí: [PORTFOLIO](https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - 📫 Contacto: [LinkTree](https://linktr.ee/amp_carol)
 
@@ -24,13 +20,9 @@
 <br>
 <h2 align="center">English</h2>
 <h1 align="center">Hi 👋, I'm Carol P. Álvarez Molina</h1>
-<h3 align="center">Programmer, Designer and Student</h3>
+<h3 align="center">Associate Experience Designer at Electronic Arts (EA)</h3>
 
-- 🔭 I’m working on [Sacramentum](https://linktr.ee/grimoriumgames), an Unreal Engine Action/Terror game that is currently in development.
-
-- 🌱 I’m learning **C++, C#, HTML5, CSS3 & JavaScript**
-
-- 👨‍💻 All of my projects are here: [PORTFOLIO](https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 👨‍💻 You can find my projects here: [PORTFOLIO](https://www.canva.com/design/DAFvWsqSSzc/bZv3NuVfoK0N0_XWwP1FBg/view?utm_content=DAFvWsqSSzc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - 📫 Contact: [LinkTree](https://linktr.ee/amp_carol)
 
